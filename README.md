@@ -1,2 +1,2 @@
-# react-exercise
+# React Exercise
 React programs
